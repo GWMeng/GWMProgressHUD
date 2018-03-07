@@ -1,0 +1,3 @@
+# GWMProgressHUD
+比较方便自定义多种动图的loading控件
+在viewController中有几种不同的使用方法，也有比较详细的注释。比较适合在同一个项目中有不同loading界面的需求。花几个小时弄的，有点草率，仅供参考！
